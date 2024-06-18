@@ -470,7 +470,7 @@ function ViashDockerfile {
     cat << 'VIASHDOCKER'
 FROM ubuntu:latest 
 LABEL org.opencontainers.image.description="Companion container for running component method"
-LABEL org.opencontainers.image.created="2024-06-18T10:08:38Z"
+LABEL org.opencontainers.image.created="2024-06-18T10:13:01Z"
 LABEL org.opencontainers.image.source="https://github.com/viash-io/test-nextflow-wave-fusion"
 LABEL org.opencontainers.image.revision="0a46d192b621c975d865fa86030caebc6f0b1641"
 LABEL org.opencontainers.image.version="build_0_9_0_RC2"
