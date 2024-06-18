@@ -399,7 +399,7 @@ FROM ubuntu:latest
 
 RUN :
 LABEL org.opencontainers.image.description="Companion container for running component method"
-LABEL org.opencontainers.image.created="2024-06-18T10:08:35Z"
+LABEL org.opencontainers.image.created="2024-06-18T10:13:03Z"
 LABEL org.opencontainers.image.source="https://github.com/viash-io/test-nextflow-wave-fusion"
 LABEL org.opencontainers.image.revision="0a46d192b621c975d865fa86030caebc6f0b1641"
 LABEL org.opencontainers.image.version="build_0_7_3"
